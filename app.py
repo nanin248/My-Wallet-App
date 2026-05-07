@@ -3,7 +3,7 @@ import pandas as pd
 
 st.set_page_config(page_title="Finance Tracker", layout="wide")
 
-st.title("Personal Finance Tracker")
+st.title("My Wallet App")
 
 uploaded_file = st.file_uploader("Upload your bank CSV", type=["csv"])
 
